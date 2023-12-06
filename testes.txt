@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Após primeiro commit gerando modificação para ter mais commit
 Desfazendo commit testando
+=======
+>>>>>>> parent of 05cc191 (Gerado modificação)
+# Apos o desfazer testado gerando
+#
+#
+#
